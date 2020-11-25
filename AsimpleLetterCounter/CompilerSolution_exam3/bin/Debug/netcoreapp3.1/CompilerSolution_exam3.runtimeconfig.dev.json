@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\libtv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\libtv\\.nuget\\packages"
+    ]
+  }
+}

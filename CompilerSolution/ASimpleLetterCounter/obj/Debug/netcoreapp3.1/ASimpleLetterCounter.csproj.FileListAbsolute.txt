@@ -1,0 +1,15 @@
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\bin\Debug\netcoreapp3.1\ASimpleLetterCounter.exe
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\bin\Debug\netcoreapp3.1\ASimpleLetterCounter.deps.json
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\bin\Debug\netcoreapp3.1\ASimpleLetterCounter.runtimeconfig.json
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\bin\Debug\netcoreapp3.1\ASimpleLetterCounter.runtimeconfig.dev.json
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\bin\Debug\netcoreapp3.1\ASimpleLetterCounter.dll
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\bin\Debug\netcoreapp3.1\ASimpleLetterCounter.pdb
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\obj\Debug\netcoreapp3.1\ASimpleLetterCounter.csprojAssemblyReference.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\obj\Debug\netcoreapp3.1\ASimpleLetterCounter.csproj.CoreCompileInputs.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\obj\Debug\netcoreapp3.1\ASimpleLetterCounter.AssemblyInfoInputs.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\obj\Debug\netcoreapp3.1\ASimpleLetterCounter.AssemblyInfo.cs
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\obj\Debug\netcoreapp3.1\ASimpleLetterCounter.dll
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\obj\Debug\netcoreapp3.1\ASimpleLetterCounter.pdb
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\obj\Debug\netcoreapp3.1\ASimpleLetterCounter.genruntimeconfig.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\bin\Debug\netcoreapp3.1\IISPLParGenDll6.02.dll
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ASimpleLetterCounter\obj\Debug\netcoreapp3.1\ASimpleLetterCounter.csproj.CopyComplete

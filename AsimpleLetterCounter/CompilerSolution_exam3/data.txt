@@ -1,0 +1,4 @@
+﻿12 4 21 12.3 1E45 n1 age
+yjkim@gmail.com hong@naver.co.kr yjkim@hanbat.ac.kr
+2000.11.11 1995.10.15
+9501011402120 8901011402120

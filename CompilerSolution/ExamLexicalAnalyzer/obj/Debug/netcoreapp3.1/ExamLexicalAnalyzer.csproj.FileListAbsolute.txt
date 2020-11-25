@@ -1,0 +1,15 @@
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\bin\Debug\netcoreapp3.1\ExamLexicalAnalyzer.exe
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\bin\Debug\netcoreapp3.1\ExamLexicalAnalyzer.deps.json
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\bin\Debug\netcoreapp3.1\ExamLexicalAnalyzer.runtimeconfig.json
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\bin\Debug\netcoreapp3.1\ExamLexicalAnalyzer.runtimeconfig.dev.json
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\bin\Debug\netcoreapp3.1\ExamLexicalAnalyzer.dll
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\bin\Debug\netcoreapp3.1\ExamLexicalAnalyzer.pdb
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\obj\Debug\netcoreapp3.1\ExamLexicalAnalyzer.csprojAssemblyReference.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\obj\Debug\netcoreapp3.1\ExamLexicalAnalyzer.csproj.CoreCompileInputs.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\obj\Debug\netcoreapp3.1\ExamLexicalAnalyzer.AssemblyInfoInputs.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\obj\Debug\netcoreapp3.1\ExamLexicalAnalyzer.AssemblyInfo.cs
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\obj\Debug\netcoreapp3.1\ExamLexicalAnalyzer.dll
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\obj\Debug\netcoreapp3.1\ExamLexicalAnalyzer.pdb
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\obj\Debug\netcoreapp3.1\ExamLexicalAnalyzer.genruntimeconfig.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\bin\Debug\netcoreapp3.1\IISPLParGenDll6.02.dll
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\ExamLexicalAnalyzer\obj\Debug\netcoreapp3.1\ExamLexicalAnalyzer.csproj.CopyComplete

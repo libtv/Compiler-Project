@@ -1,0 +1,15 @@
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.csprojAssemblyReference.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.csproj.CoreCompileInputs.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.AssemblyInfoInputs.cache
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.AssemblyInfo.cs
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.exe
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.deps.json
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.runtimeconfig.json
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.runtimeconfig.dev.json
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.dll
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.pdb
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\bin\Debug\netcoreapp3.1\IISPLParGenDll6.02.dll
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.csproj.CopyComplete
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.dll
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.pdb
+C:\한밭대학교\4학년 1학기\컴파일러\CompilerSolution\SimpleLexcialAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexcialAnalyzer.genruntimeconfig.cache
